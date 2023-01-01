@@ -57,7 +57,7 @@ find general information about how to use operators on the
 
 ## Copyright and License
 
-Copyright (c) 2020 Kazuhito Suda<br>
+Copyright (c) 2020-2023 Kazuhito Suda<br>
 Copyright (c) 2019-2020 Future Internet Consulting and Development Solutions S.L.<br>
 Copyright (c) 2014-2016 CoNWeT Lab., Universidad Politecnica de Madrid
 
